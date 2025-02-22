@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 31,
+      "documentId": "pttb8hhet1wemz050flsgl4f",
+      "slug": "salak",
+      "title": "Salak",
+      "description": "Salak memiliki kulit cokelat bersisik seperti ular, daging buah putih kekuningan, tekstur renyah, dan rasa manis asam.",
+      "category": "buah",
+      "body": "**Salak**\n\nSalak (Salacca zalacca) berasal dari Indonesia, khususnya di pulau Jawa dan Bali, dan telah dibudidayakan sejak lama. Buah ini dikenal dengan kulitnya yang bersisik seperti ular, dengan daging buah yang manis dan asam serta tekstur renyah. Salak kaya akan serat, vitamin C, dan antioksidan yang bermanfaat untuk kesehatan pencernaan, meningkatkan kekebalan tubuh, serta menjaga kesehatan kulit. Selain itu, salak juga dikenal memiliki sifat antiinflamasi yang membantu mengurangi peradangan.\n",
+      "image": {
+        "id": 24,
+        "documentId": "qgc0ikgnlbwvvtmsu2vnis0d",
+        "url": "/uploads/salak_c6d4edfe01.jpg"
+      }
+    },
+    {
+      "id": 30,
+      "documentId": "ckdel9nqfs3ml51yled1hway",
+      "slug": "wortel",
+      "title": "Wortel",
+      "description": "Wortel memiliki bentuk panjang dan ramping, kulit oranye halus, daging renyah, dan rasa manis sedikit tanah.",
+      "category": "sayur",
+      "body": "**Wortel**\n\nWortel (Daucus carota) berasal dari Asia Barat dan telah dibudidayakan sejak sekitar 5000 tahun yang lalu. Awalnya, wortel memiliki warna ungu atau putih, namun varietas oranye mulai populer di Eropa pada abad ke-17. Wortel kaya akan beta-karoten, serat, vitamin A, dan antioksidan, yang bermanfaat untuk menjaga kesehatan mata, meningkatkan sistem kekebalan tubuh, serta mendukung pencernaan. Wortel juga dikenal memiliki sifat antiinflamasi yang baik untuk melawan peradangan dalam tubuh.",
+      "image": {
+        "id": 17,
+        "documentId": "vuy0oscchacedq5xq2aib1le",
+        "url": "/uploads/wortel_3b4cdb4881.jpg"
+      }
+    },
+    {
+      "id": 28,
+      "documentId": "k9bkfxqx219exl07zlt73os3",
+      "slug": "ubi",
+      "title": "Ubi",
+      "description": "Ubi memiliki kulit cokelat atau ungu, daging buah berwarna kuning, oranye, atau ungu, dengan rasa manis dan tekstur lembut setelah dimasak.",
+      "category": "sayur",
+      "body": "**Ubi**\n\nUbi (Ipomoea batatas) berasal dari Amerika Selatan, khususnya dari daerah tropis, dan telah dibudidayakan sejak ribuan tahun lalu oleh suku-suku asli. Ubi kemudian menyebar ke seluruh dunia melalui jalur perdagangan. Ubi kaya akan karbohidrat kompleks, serat, vitamin A, vitamin C, dan kalium, yang bermanfaat untuk meningkatkan energi, mendukung kesehatan mata, memperkuat sistem kekebalan tubuh, serta menjaga kesehatan pencernaan. Ubi juga memiliki kandungan antioksidan yang baik untuk melawan peradangan dan memperlambat proses penuaan.",
+      "image": {
+        "id": 15,
+        "documentId": "n422uqky89ft4sad40ihl96s",
+        "url": "/uploads/ubi_d5d75d0987.jpg"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 3,
+      "pageCount": 5,
+      "total": 15
+    }
+  }
+}
