@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
   images: {
-    domains: ["localhost"], // Tambahkan domain yang diizinkan
+    domains: ["playful-event-a8dc400134.media.strapiapp.com"],
   },
 };
 
